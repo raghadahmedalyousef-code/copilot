@@ -41,10 +41,10 @@ This project was built as part of a **university web development course** to dem
 1. Clone the repository:  
    ```bash
    git clone git@github.com:raghadahmedalyousef-code/copilot.git
-  2.	Place the project folder in your XAMPP htdocs directory.
-	3.	Start Apache and MySQL from XAMPP Control Panel.
-	4.	Import the database file (if available) using phpMyAdmin.
-	5.	Open your browser and visit:
+ 2.  Place the project folder in your XAMPP htdocs directory.
+3.  	Start Apache and MySQL from XAMPP Control Panel.
+4.		Import the database file (if available) using phpMyAdmin.
+5.		Open your browser and visit:
 http://localhost/copilot/
 
 
