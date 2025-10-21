@@ -4,7 +4,6 @@
 **CoPilot** is a smart web application designed to enhance the airport experience for travelers.  
 It provides real-time flight tracking, luggage monitoring, and an AI-powered assistant — all through a user-friendly dashboard.  
 
-This project was built as part of a **university web development course** to demonstrate practical integration of **HTML, CSS, JavaScript, PHP, and MySQL** into a cohesive system.  
 
 ---
 
@@ -47,11 +46,6 @@ This project was built as part of a **university web development course** to dem
 5.	Open your browser and visit:
  http://localhost/copilot/
 
-
-👩🏻‍💻 Author
-
-Raghd Alyousef
-Senior Computer Science Student | AI & Web Development Enthusiast
 
 📜 License
 
